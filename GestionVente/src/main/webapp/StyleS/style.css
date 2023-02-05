@@ -1,0 +1,30 @@
+*
+{
+	margin : 0px;
+	padding : 0px;
+}
+
+.SectionAvecAside , .div-footer
+{
+	margin-left : 210px;
+}
+
+section
+{
+	margin-top : 60px;
+}
+
+article
+{
+	padding-top : 30px;
+	padding-bottom : 30px;
+	box-shadow: 0 20px 30px #a8a8a8;
+}
+h1,h2,h3,h6
+{
+	font-family : cursive;
+}
+h6
+{
+	font-weight : bolder;
+}

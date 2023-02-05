@@ -1,0 +1,29 @@
+
+footer
+{
+   font-size : 20px;
+   padding: 10px;
+   background-color : maroon;
+   color : white;
+   width: 100%;
+   
+}
+.fixed-footer
+{
+	position : fixed;
+   	bottom : 0px;
+}
+footer h3
+{
+	color: gold;
+}
+
+footer>div{
+   display:inline-block;
+   margin : 10px 40px;
+}
+
+footer p
+{
+	color: silver;
+}
